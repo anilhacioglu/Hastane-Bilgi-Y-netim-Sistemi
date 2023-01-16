@@ -1,0 +1,22 @@
+C:\Users\anilh\OneDrive\Masaüstü\Hastane Bilgi Yönetim Sistemi\bin\Debug\Hastane Bilgi Yönetim Sistemi.exe.config
+C:\Users\anilh\OneDrive\Masaüstü\Hastane Bilgi Yönetim Sistemi\bin\Debug\Hastane Bilgi Yönetim Sistemi.exe
+C:\Users\anilh\OneDrive\Masaüstü\Hastane Bilgi Yönetim Sistemi\bin\Debug\Hastane Bilgi Yönetim Sistemi.pdb
+C:\Users\anilh\OneDrive\Masaüstü\Hastane Bilgi Yönetim Sistemi\obj\Debug\Hastane Bilgi Yönetim Sistemi.csproj.AssemblyReference.cache
+C:\Users\anilh\OneDrive\Masaüstü\Hastane Bilgi Yönetim Sistemi\obj\Debug\Hastane Bilgi Yönetim Sistemi.csproj.SuggestedBindingRedirects.cache
+C:\Users\anilh\OneDrive\Masaüstü\Hastane Bilgi Yönetim Sistemi\obj\Debug\Hastane_Bilgi_Yönetim_Sistemi.Properties.Resources.resources
+C:\Users\anilh\OneDrive\Masaüstü\Hastane Bilgi Yönetim Sistemi\obj\Debug\Hastane Bilgi Yönetim Sistemi.csproj.GenerateResource.cache
+C:\Users\anilh\OneDrive\Masaüstü\Hastane Bilgi Yönetim Sistemi\obj\Debug\Hastane Bilgi Yönetim Sistemi.csproj.CoreCompileInputs.cache
+C:\Users\anilh\OneDrive\Masaüstü\Hastane Bilgi Yönetim Sistemi\obj\Debug\Hastane Bilgi Yönetim Sistemi.exe
+C:\Users\anilh\OneDrive\Masaüstü\Hastane Bilgi Yönetim Sistemi\obj\Debug\Hastane Bilgi Yönetim Sistemi.pdb
+C:\Users\anilh\OneDrive\Masaüstü\Hastane Bilgi Yönetim Sistemi\bin\Debug\VeritabanıHastane.mdf
+C:\Users\anilh\OneDrive\Masaüstü\Hastane Bilgi Yönetim Sistemi\bin\Debug\VeritabanıHastane_log.ldf
+C:\Users\anilh\OneDrive\Masaüstü\Hastane Bilgi Yönetim Sistemi\obj\Debug\Hastane_Bilgi_Yönetim_Sistemi.frm_GirisEkran.resources
+C:\Users\anilh\OneDrive\Masaüstü\Hastane Bilgi Yönetim Sistemi\obj\Debug\Hastane_Bilgi_Yönetim_Sistemi.frm_EkranMenu.resources
+C:\Users\anilh\OneDrive\Masaüstü\Hastane Bilgi Yönetim Sistemi\obj\Debug\Hastane_Bilgi_Yönetim_Sistemi.frm_ReçeteGörüntüle.resources
+C:\Users\anilh\OneDrive\Masaüstü\Hastane Bilgi Yönetim Sistemi\obj\Debug\Hastane_Bilgi_Yönetim_Sistemi.frm_CalisanGuncellemeEkranı.resources
+C:\Users\anilh\OneDrive\Masaüstü\Hastane Bilgi Yönetim Sistemi\obj\Debug\Hastane_Bilgi_Yönetim_Sistemi.frmHastaGuncellemeEkranı.resources
+C:\Users\anilh\OneDrive\Masaüstü\Hastane Bilgi Yönetim Sistemi\obj\Debug\Hastane_Bilgi_Yönetim_Sistemi.frm_OdaGüncellemeEkranı.resources
+C:\Users\anilh\OneDrive\Masaüstü\Hastane Bilgi Yönetim Sistemi\obj\Debug\Hastane_Bilgi_Yönetim_Sistemi.frm_YeniReçeteEkranı.resources
+C:\Users\anilh\OneDrive\Masaüstü\Hastane Bilgi Yönetim Sistemi\obj\Debug\Hastane_Bilgi_Yönetim_Sistemi.frm_HastaKayıtEkranı.resources
+C:\Users\anilh\OneDrive\Masaüstü\Hastane Bilgi Yönetim Sistemi\obj\Debug\Hastane_Bilgi_Yönetim_Sistemi.frm_OdaAtamaEkranı.resources
+C:\Users\anilh\OneDrive\Masaüstü\Hastane Bilgi Yönetim Sistemi\obj\Debug\Hastane_Bilgi_Yönetim_Sistemi.frm_ÇalışanKayıtEkranı.resources
